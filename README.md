@@ -3,8 +3,8 @@
 
 <param ve-config
  title="Yerba Mate: From Sacred Drink to Caffeinated Star"
- source-image="https://commons.wikimedia.org/wiki/File:EB1911_-_Mat%C3%A9_(Ilex_paraguariensis).jpg"
- banner="https://commons.wikimedia.org/wiki/File:EB1911_-_Mat%C3%A9_(Ilex_paraguariensis).jpg"
+ source-image="https://upload.wikimedia.org/wikipedia/commons/f/f8/EB1911_-_Mat%C3%A9_%28Ilex_paraguariensis%29.jpg"
+ banner="https://upload.wikimedia.org/wikipedia/commons/f/f8/EB1911_-_Mat%C3%A9_%28Ilex_paraguariensis%29.jpg"
  author="Matt Turetsky"
  layout="vertical">
  
