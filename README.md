@@ -16,5 +16,5 @@
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 <param ve-entity eid="Q70702" title=“alkaloid”>
-<param ve-entity eid="Q210377" title=“gaucho”>
+<param ve-entity eid="Q210377" title=“gauchos”>
 
