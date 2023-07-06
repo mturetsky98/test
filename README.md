@@ -31,7 +31,9 @@ Here is how to embed a video
 
 ### How to show a plant specimen
 
-JSTOR Global Plants
+JSTOR Global Plants.
+
+Here is another paragraph about global plants.
 
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000588587">
 
