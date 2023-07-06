@@ -26,7 +26,7 @@ Here is another paragraph with some text.
 
 Here is how to embed a video
 
-<param ve-video vid="Enb-wF1QL28" title="Mate explaned">
+<param ve-video vid="Enb-wF1QL28">
 
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q46429" title=“Guarani people”>
