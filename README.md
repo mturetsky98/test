@@ -35,9 +35,14 @@ JSTOR Global Plants.
 
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000588587">
 
-
 Here is another paragraph about global plants.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.ma811391">
+
+### Primary source
+
+Archive.org
+
+<param ve-iframe src="https://archive.org/details/sainthilaire00larggoog/page/n30/mode/2up?view=theater">
 
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q46429" title=“Guarani people”>
