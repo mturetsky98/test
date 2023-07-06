@@ -20,7 +20,7 @@
 
 Here is another paragraph with some text.
 
-<param ve-image url="yerba.jpg" label="two cups of mate">
+<param ve-image url="yerba.jpg" title="two cups of mate">
 
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q46429" title=“Guarani people”>
