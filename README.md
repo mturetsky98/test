@@ -16,6 +16,8 @@
 <param ve-image label="Cup of mate" description="Photograph" license="public domain"
  url="https://upload.wikimedia.org/wikipedia/commons/4/48/Erva_mate_chimarrao_in_big_cuia.jpg">
 
+### Next section
+
 Here is another paragraph with some text.
 
 <param ve-image url="yerba.jpg" label="two cups of mate">
