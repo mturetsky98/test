@@ -49,7 +49,7 @@ Archive.org
 
 Here is yet another paragraph about mate
 
-<param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg" region="322,364,220,171">
+<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg" region="322,364,220,171">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/4/48/Erva_mate_chimarrao_in_big_cuia.jpg">
 
 <param ve-entity eid="Q155" title="Brazil">
