@@ -57,7 +57,7 @@ Here is yet another paragraph about mate
 This is how to make a timeline.
 
 <param ve-knightlab-timeline
-source=2PACX-1vTAQKnDZAnARB39a_5iwXXfXH0L8-KO9gq6mvo_uOnYCOcNCh-7qFsuZz21-kuxMkQteSvHLYgmAx9u
+source=1kN24KiQMoXiGD7HHKts5mMSlaGsqpy748vj40tLqO-U
 timenav-position="bottom"
 hash-bookmark="false"
 initial-zoom="1"
