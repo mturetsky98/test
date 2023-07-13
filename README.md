@@ -64,6 +64,12 @@ initial-zoom="1"
 height="750">
 
 
+### Maps maps maps
+
+This is how we make a map
+
+<param ve-map basemap="Esri-WorldPhysical">
+
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
