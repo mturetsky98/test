@@ -49,8 +49,20 @@ Archive.org
 
 Here is yet another paragraph about mate
 
-<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg" region="322,364,220,171">
+<param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg" region="322,364,220,171">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/4/48/Erva_mate_chimarrao_in_big_cuia.jpg">
+
+### Timeline
+
+This is how to make a timeline.
+
+<param ve-knightlab-timeline
+source=2PACX-1vTAQKnDZAnARB39a_5iwXXfXH0L8-KO9gq6mvo_uOnYCOcNCh-7qFsuZz21-kuxMkQteSvHLYgmAx9u
+timenav-position="bottom"
+hash-bookmark="false"
+initial-zoom="1"
+height="750">
+
 
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q46429" title=“Guarani people”>
