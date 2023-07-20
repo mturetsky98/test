@@ -63,6 +63,11 @@ hash-bookmark="false"
 initial-zoom="1"
 height="750">
 
+### Annotate an image
+
+This is how to annotate an image
+
+<param ve-image url="https://commons.wikimedia.org/wiki/File:Ilex_paraguariensis_(19124716171).jpg">
 
 ### Maps maps maps
 
