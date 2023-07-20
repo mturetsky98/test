@@ -73,7 +73,7 @@ This is how to annotate an image
 
 This is how we make a map
 
-<param ve-map title="Map of world" center="-15.818934, -69.831107" zoom="6">
+<param ve-map title="Map of world" center="-15.818934, -69.831107" zoom="4">
 
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q46429" title=“Guarani people”>
