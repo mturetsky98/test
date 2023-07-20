@@ -71,7 +71,7 @@ This is how to annotate an image
 
 ### Maps maps maps
 
-This is how we make a map. This is focused on <span data-mouseover-map-flyto="-5.785375, -35.206112, 14">Natal</span>
+This is how we make a map. This is focused on <span data-mouseover-map-flyto="-17, -69, 14">Natal</span>
 
 <param ve-map title="Map of world" center="-15.818934, -69.831107" zoom="4">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/mturetsky98/test/main/map1.json">
