@@ -7,6 +7,8 @@
  banner="https://upload.wikimedia.org/wikipedia/commons/f/f8/EB1911_-_Mat%C3%A9_%28Ilex_paraguariensis%29.jpg"
  author="Matt Turetsky"
  layout="vertical">
+
+ <param ve-entity eid="Q155" title="Brazil">
  
 ### Introduction
 
@@ -76,7 +78,7 @@ This is how we make a map. This is focused on <span data-mouseover-map-flyto="-1
 <param ve-map title="Map of world" center="-15.818934, -69.831107" zoom="4">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/mturetsky98/test/main/map1.json">
 
-<param ve-entity eid="Q155">
+<param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 <param ve-entity eid="Q70702" title=“alkaloid”>
