@@ -28,6 +28,12 @@ center="-15.822352463273305, -69.45851877372355"
 zoom="5"
 Title="Altiplano"
 show-labels>
+<param ve-map-layer geojson
+	url="https://raw.githubusercontent.com/mturetsky98/quinoa/main/peru.json">
+ <param ve-map-layer geojson
+	url="https://raw.githubusercontent.com/mturetsky98/quinoa/main/titicacaMap.json">
+ <param ve-map-layer geojson
+	url="https://raw.githubusercontent.com/mturetsky98/quinoa/main/bolivia.json">
 
 
 
