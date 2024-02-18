@@ -16,6 +16,11 @@
 [_Ilex paraguariensis_](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) is an evergreen Chenopodium shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay,and Argentina that can grow up to forty-nine feet tall. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. The loose powder is typically steeped in hot water and strained through a <span data-mouseover-image-zoomto="380,422,128,110">metallic straw</span>, or bombilla, shared by many people, passing from mouth to mouth. During the 19th century, the drinkbecame associated with South American *gauchos*. The same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent COVID-19 pandemic.
 
 <param ve-image url="https://www.themorgan.org/sites/default/files/facsimile/download/ma3900_061v-062r.jpg" title="The official logo of the 2013 International Year of Quinoa" region="10,-60,492,434" attribution="Food and Agricultural Organization">
+
+### Image test
+
+<param ve-image url="Yanacocha.jpg" fit="contain">
+
 ### Next section
 
 Here is another paragraph with some text.
