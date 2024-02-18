@@ -23,7 +23,16 @@
 
 Here is another paragraph with some text.
 
-<param ve-image url="yerba.jpg" title="two cups of mate">
+&lt;param ve-map
+center=&quot;41.89293, 12.49058&quot;
+zoom=&quot;5&quot;
+Title=&quot;City of Rome&quot;
+show-labels&gt;
+&lt;param ve-map-marker
+url=&quot; https://upload.wikimedia.org/wikipedia/commons/c/c5/Roman_Colosseum_icon.svg&quot;
+coords=&quot;41.89293, 12.49058&quot;
+size=&quot;512, 328&quot;
+circle=&quot;true&quot;&gt;
 
 ### Trying a gif
 
