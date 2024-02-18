@@ -31,7 +31,8 @@ show-labels>
 <param ve-map-marker
 url="https://en.wikipedia.org/wiki/Altiplano#/media/File:Mapa_cuencas_endorr%C3%A9icas_meseta_del_collao.jpg"
 coords="-15.822352463273305, -69.45851877372355"
-size="512, 328">
+size="512, 328"
+ circle="true">
 
 ### Trying a gif
 
