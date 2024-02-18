@@ -24,15 +24,14 @@
 Here is another paragraph with some text.
 
 <param ve-map
-center="41.89293, 12.49058"
+center="-15.822352463273305, -69.45851877372355"
 zoom="5"
-Title="City of Rome"
+Title="Altiplano"
 show-labels>
 <param ve-map-marker
-url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Roman_Colosseum_icon.svg"
-coords="41.89293, 12.49058"
-size="512, 328" 
-circle="true">
+url="https://en.wikipedia.org/wiki/Altiplano#/media/File:Mapa_cuencas_endorr%C3%A9icas_meseta_del_collao.jpg"
+coords="-15.822352463273305, -69.45851877372355"
+size="512, 328">
 
 ### Trying a gif
 
