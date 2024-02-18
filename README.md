@@ -19,6 +19,8 @@
 
 ### Image test
 
+Testing testing.
+
 <param ve-image url="Yanacocha.jpg" fit="contain">
 
 ### Next section
