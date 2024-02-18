@@ -25,7 +25,7 @@ Here is another paragraph with some text.
 
 <param ve-map basemap="Esri_WorldPhysical"
 center="-15.822352463273305, -69.45851877372355"
-zoom="5"
+zoom="8"
 Title="Altiplano"
 show-labels>
 <param ve-map-layer geojson
