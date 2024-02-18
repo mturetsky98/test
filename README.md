@@ -60,7 +60,7 @@ Here is another paragraph about global plants.
 
 Archive.org
 
-<param ve-iframe src="https://archive.org/details/sainthilaire00larggoog/page/n30/mode/2up?view=theater">
+<param ve-iframe src="https://archive.org/details/PartePrimeraDeLaChronicaDelPeru_201612/page/n266/mode/1up?view=theater">
 
 
 ### Side by side images
