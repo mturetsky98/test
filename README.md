@@ -38,7 +38,8 @@ show-labels>
 
 This is my attempt with gifs
 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/72/2022_Russian_Invasion_of_Ukraine_animated.gif" title="two cups of mate">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/72/2022_Russian_Invasion_of_Ukraine_animated.gif" title="two cups of mate"
+	title="Cieza de Leon">
 
 ### Video
 
